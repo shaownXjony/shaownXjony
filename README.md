@@ -12,13 +12,20 @@
 **Data Science • Machine Learning • NLP • Computer Vision • Web Development**  
 I build ML models, dashboards, and computer vision systems focusing on clean, practical solutions.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shaownXjony&theme=tokyonight" />
 
-## 📊 GitHub Stats  
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shaownXjony&theme=tokyonight" />
+</td>
+<td width="50%" valign="center">
 
----
+<img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=shaownXjony&theme=tokyo-night" />
+
+</td>
+</tr>
+</table>
 
 ## 📫 Contact  
 📧 **shaownrahman30@gmail.com**  
