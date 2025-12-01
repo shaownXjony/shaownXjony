@@ -8,7 +8,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
 ![Dash](https://img.shields.io/badge/Dash-1E1E1E?logo=plotly)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
-
 **Data Science • Machine Learning • NLP • Computer Vision • Web Development**  
 I build ML models, dashboards, and computer vision systems focusing on clean, practical solutions.
 
@@ -27,9 +26,6 @@ I build ML models, dashboards, and computer vision systems focusing on clean, pr
 </tr>
 </table>
 
-## 📫 Contact  
 📧 **shaownrahman30@gmail.com**  
 🔗 https://linkedin.com/in/shaownrahman  
 💻 https://github.com/shaownXjony  
-
-⭐ *Thanks for visiting — feel free to explore my projects!*
