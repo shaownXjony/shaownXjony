@@ -12,7 +12,7 @@
 **Data Science • Machine Learning • NLP • Computer Vision • Web Development**  
 I build ML models, dashboards, and computer vision systems focusing on clean, practical solutions.
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -25,7 +25,7 @@ I build ML models, dashboards, and computer vision systems focusing on clean, pr
 
 </td>
 </tr>
-</table>
+</table> -->
 
 📧 **shaownrahman30@gmail.com**  
 🔗 https://linkedin.com/in/shaownrahman  
