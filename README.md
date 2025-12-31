@@ -27,6 +27,7 @@ I build ML models, dashboards, and computer vision systems focusing on clean, pr
 </tr>
 </table> -->
 
-📧 **shaownrahman30@gmail.com**  
+📧 **shaownrahman30@gmail.com**
+:earth_asia: https://shaownxjony.vercel.app/
 🔗 https://linkedin.com/in/shaownrahman  
 💻 https://github.com/shaownXjony  
